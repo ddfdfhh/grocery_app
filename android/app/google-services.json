@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801363036323",
+    "project_id": "devgrp",
+    "storage_bucket": "devgrp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801363036323:android:df48cb57c310bb7fbf1716",
+        "android_client_info": {
+          "package_name": "com.omghub.store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXANFPEyUZPeDh28ZXUNObeUetYrY_rjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

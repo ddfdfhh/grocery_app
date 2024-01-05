@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "552934594862",
+    "project_id": "shopping-ef254",
+    "storage_bucket": "shopping-ef254.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:552934594862:android:3d3f7bc1ba5487f109c2bf",
+        "android_client_info": {
+          "package_name": "com.omghub.store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIO3mpugB0hzhRdbzRuZF_Tg4gDTV5Tcc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
